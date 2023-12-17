@@ -1,5 +1,5 @@
 {
-  "name": "my-qwik-site-with-visual-cms",
+  "name": "moonrock",
   "description": "Site integrated with Builder.io for visual editing",
   "engines": {
     "node": ">=15.0.0"
